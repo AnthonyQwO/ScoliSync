@@ -3,7 +3,7 @@
 
 ### 概述 Overview
 
-![Scoliometer Demo](image/demo1)
+![Scoliometer Demo](image/demo0.PNG)
 
 這是一款專為脊椎側彎患者設計的 iOS 應用程式，使用 SwiftUI 框架開發，旨在幫助患者輕鬆記錄和追蹤病情，確保及時發現病情惡化。
 
@@ -14,7 +14,7 @@ This is an iOS application specifically designed for scoliosis patients, develop
 ### 主要功能 Main Features
 
 #### 1. 柯布角度測量 (Cobb Angle Measurement)
-![Cobb Angle Measurement Demo](image/demo2)
+![Cobb Angle Measurement Demo](image/demo2.PNG)
 
 **功能描述 Feature Description:**
 - 提供簡潔直觀的測量介面
@@ -54,7 +54,7 @@ This is an iOS application specifically designed for scoliosis patients, develop
 - 精確度優化算法
 
 #### 3. 角度記錄與追蹤 (Angle Recording and Tracking)
-![Data Tracking Demo](image/demo1)
+![Data Tracking Demo](image/demo1.PNG)
 
 **功能描述 Feature Description:**
 - 使用 SwiftData 儲存測量結果
